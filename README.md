@@ -18,21 +18,29 @@ The math passing percentage for the entire distrcit fell to 74.8%	from 75%.
 The reading passing percentage for the entire distrcit fell	to 85.7% from 86%.
 #### Effect on School Summary
 The overall passing percentage for Thomas High School fell to 65%.
-The math passing percentage for the school fell to %.
-The reading passing percentage for the school fell to %. 
+ 
 #### Thomas High School’s Performance Relative to Other Schools
 Thomas High School fell to the bottom-five schools, whereas it was previously in the top-five schools by overall passing percentage.
 #### Math and Reading Scores by Grade
-Before Grades Were Removed
-https://github.com/alexdallman1029/School_District_Analysis/blob/main/Images/school-analysis-1.png
-After Grades Were Removed
-https://github.com/alexdallman1029/School_District_Analysis/blob/main/Images/school-analysis-2.png
+Before Grades Were Removed<br>
+<img src="https://github.com/alexdallman1029/School_District_Analysis/blob/main/Images/school-analysis-1.png" width="1000"><br>
+After Grades Were Removed<br>
+<img src="https://github.com/alexdallman1029/School_District_Analysis/blob/main/Images/school-analysis-2.png" width="1000"><br>
 #### Scores by School Spending
-
+Before Grades Were Removed<br>
+<img src="https://github.com/alexdallman1029/School_District_Analysis/blob/main/Images/school-spending-1.png" width="1000"><br>
+After Grades Were Removed<br>
+<img src="https://github.com/alexdallman1029/School_District_Analysis/blob/main/Images/school-spending-2.png" width="1000"><br>
 #### Scores by School Size
-
+Before Grades Were Removed<br>
+<img src="https://github.com/alexdallman1029/School_District_Analysis/blob/main/Images/school-by-type-1.png" width="1000"><br>
+After Grades Were Removed<br>
+<img src="https://github.com/alexdallman1029/School_District_Analysis/blob/main/Images/school-by-type-2.png" width="1000"><br>
 #### Scores by School Type
-
+Before Grades Were Removed<br>
+<img src="https://github.com/alexdallman1029/School_District_Analysis/blob/main/Images/charter-district-1.png" width="1000"><br>
+After Grades Were Removed<br>
+<img src="https://github.com/alexdallman1029/School_District_Analysis/blob/main/Images/charter-district-1.png" width="1000"><br>
 ## Summary
 
 While the omission of Thomas High School's ninth-grade scores was not ideal, it was the best option to exclude the dishonest data. The distinction between dishonest and honest data could not be made; therefore, all of the ninth-grade data for Thomas High School was removed. Relacing Thomas High School's ninth-grade student scores with NaN caused the school's overall passing percentages to significantly decrease. The entire district's overall passing percentage, as well as average math and reading scores decreased. Thomas High School was no longer in the top five for the district. 
