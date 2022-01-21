@@ -23,7 +23,10 @@ The reading passing percentage for the school fell to %.
 #### Thomas High School’s Performance Relative to Other Schools
 Thomas High School fell to the bottom-five schools, whereas it was previously in the top-five schools by overall passing percentage.
 #### Math and Reading Scores by Grade
-
+Before Grades Were Removed
+https://github.com/alexdallman1029/School_District_Analysis/blob/main/Images/school-analysis-1.png
+After Grades Were Removed
+https://github.com/alexdallman1029/School_District_Analysis/blob/main/Images/school-analysis-2.png
 #### Scores by School Spending
 
 #### Scores by School Size
